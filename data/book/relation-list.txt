@@ -1,0 +1,10 @@
+0	book.written_work.translation
+1	book.written_work.author
+2	book.literary_series.author
+3	book.written_work.previous_in_series
+4	book.literary_series.works_in_this_series
+5	book.written_work.literary_series
+6	book.written_work.date_of_first_publication
+7	comic_books.series.publisher
+8	book.written_work.subject
+9	book.book.genre

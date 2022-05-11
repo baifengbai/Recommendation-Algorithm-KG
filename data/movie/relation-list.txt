@@ -1,0 +1,7 @@
+0	film.film.writer
+1	film.film.star
+2	film.film.rating
+3	film.film.country
+4	film.film.director
+5	film.film.language
+6	film.film.genre

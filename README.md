@@ -3,7 +3,7 @@
 
 data是数据集；entity-list.txt的第一列是数据预处理后的id，第二列是数据预处理之前的id；
 kg.txt是知识图谱文件，第一列是头实体，第二列是尾实体，第三列是关系；
-ratings.txt是按照1:1采集负样本之后的数据集
+ratings.txt是按照1:1采集负样本之后的数据集；
 relation-list.txt的第一列是关系id，第二列是关系；
 其余文件可以忽视。
 
